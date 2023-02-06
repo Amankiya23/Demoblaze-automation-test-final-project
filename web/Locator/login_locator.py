@@ -1,0 +1,11 @@
+class login_locator:
+    login_id = "login2"
+    lo_Username2_ID = "loginusername"
+    user_send_key1 = "Amanuel"
+    user_send_key2 = "emanuel"
+    lo_Password2_ID = "loginpassword"
+    pass_send_key1 = "Emanuel123"
+    pass_send_key2 = "123123"
+    Login_button_XP = "//button[contains(text(),'Log in')]"
+    logout_ID = "logout2"
+    cancle_login = "/html[1]/body[1]/div[4]/div[1]/div[1]/div[3]/button[1]"

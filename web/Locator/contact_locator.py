@@ -1,0 +1,10 @@
+class contact_locator():
+    contact_page = "//body/nav[@id='narvbarx']/div[@id='navbarExample']/ul[1]/li[2]"
+    email_xp = "//input[@id='recipient-email']"
+    name_xp = "//input[@id='recipient-name']"
+    message_xp = "//textarea[@id='message-text']"
+    contact_close_xp = "//body/div[@id='exampleModal']/div[1]/div[1]/div[3]/button[1]"
+    contact_send_xp = "//button[contains(text(),'Send message')]"
+    send_key = "amanuel@email.com"
+    send_key_name = "Emanuel"
+    send_key_message = "Thank You!"
